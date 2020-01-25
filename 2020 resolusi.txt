@@ -1,3 +1,4 @@
 resolusi 2020
 - lancar JavaScript
 - lancar PHP
+- hafal juz 30
