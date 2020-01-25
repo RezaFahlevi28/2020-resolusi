@@ -1,9 +1,10 @@
 resolusi lain
 
 - logika pemograman
-  + java
+  + javascript
   + c++
 - belajar framwork
 - belajar python
   + belajar framworknya
   + belajar oop nya
+- ngebentuk kelas coding
