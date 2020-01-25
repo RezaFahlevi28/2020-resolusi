@@ -1,5 +1,8 @@
 resolusi lain
 
+- logika pemograman
+  + java
+  + c++
 - belajar framwork
 - belajar python
   + belajar framworknya
